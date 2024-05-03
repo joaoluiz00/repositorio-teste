@@ -9,6 +9,6 @@
         $soma = $num1 + $num2;
     
     
-    echo "soma: ".$soma ;
+    echo "soma: ".$soma;      
 
 ?>
