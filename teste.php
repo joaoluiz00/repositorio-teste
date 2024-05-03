@@ -7,8 +7,9 @@
     $soma; 
 
         $soma = $num1 + $num2;
+        $soma = $num - $num2;
     
     
-    echo "soma: ".$soma;      
+    echo "resultados: ".$soma;      
 
 ?>
